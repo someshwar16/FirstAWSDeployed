@@ -1,16 +1,13 @@
-# FirstAWS
+# Weather Application - NodeJS , AWS and Docker
 In this project, I created a basic application using NodeJS.
 
 
-########### NodeJS Application ###################
-
+ **NodeJS Application** 
 
 The NodeJs Application is the basic use of API from OpenWeather.
-
-
 We can add a city to get its weather.
 
-########### AWS Part ###########################################
+**AWS Part**
 
 
 We created an IAM role in AWS.
@@ -34,4 +31,9 @@ Now copy the public IP address: "PORT NUMBER" and press enter.
 
 
 YAY!!! DONE NodeJS application is now hosted on AWS.
+
+**Docker Hub URL** 
+https://hub.docker.com/repository/docker/something02/weather-app/general
+
+
  
